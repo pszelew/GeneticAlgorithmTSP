@@ -1,1 +1,1 @@
-# GenetivAlgorithmTSP
+# GeneticAlgorithmTSP
